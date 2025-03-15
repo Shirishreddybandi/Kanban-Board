@@ -81,8 +81,6 @@ Full list of available REST endpoints could be found in Swagger UI,
 which could be called using link: **http://localhost:8080/api/swagger-ui.html**
 
 
-![swagger-ui](https://github.com/wkrzywiec/kanban-board/blob/master/assets/swagger.png)
-
 
 This app is also put in Docker container and its definition can be found
 in a file *kanban-app/Dockerfile*. 
